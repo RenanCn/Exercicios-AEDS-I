@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1455113866 source:c:\users\renancn\desktop\aeds\ex03\fila03.c
+	<stdio.h>
+	<conio.h>
+	"ex03.h"
+
+1455154183 c:\users\renancn\desktop\aeds\ex03\ex03.h
+
+1455073841 source:c:\users\renancn\desktop\aeds\ex03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex03.h"
+
+1454980490 source:c:\users\renancn\desktop\sadasd.c
+	<stdio.h>
+	<stdlib.h>
+

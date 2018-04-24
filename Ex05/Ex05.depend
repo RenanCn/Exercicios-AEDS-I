@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1455807744 source:c:\users\renancn\desktop\aeds\ex05\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex05.h"
+
+1455803607 c:\users\renancn\desktop\aeds\ex05\ex05.h
+
+1455807796 source:c:\users\renancn\desktop\aeds\ex05\fila05.c
+	<stdio.h>
+	<stdlib.h>
+	"ex05.h"
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1455902666 source:c:\users\renancn\desktop\aeds\ex04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex04.h"
+
+1455905768 c:\users\renancn\desktop\aeds\ex04\ex04.h
+
+1455902630 source:c:\users\renancn\desktop\aeds\ex04\pilha04.c
+	<stdio.h>
+	<stdlib.h>
+	"ex04.h"
+
+1455899066 source:c:\users\renancn\desktop\renancaldeiranunes_si_14.2.8392\ex04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex04.h"
+
+1455902168 c:\users\renancn\desktop\renancaldeiranunes_si_14.2.8392\ex04\ex04.h
+
+1458156305 source:c:\users\renancn\desktop\renancaldeiranunes_si_14.2.8392\ex04\pilha04.c
+	<stdio.h>
+	<stdlib.h>
+	"ex04.h"
+

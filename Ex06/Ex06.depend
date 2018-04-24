@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1455897655 source:c:\users\renancn\desktop\aeds\ex06\arvore06.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ex06.h"
+
+1455896970 c:\users\renancn\desktop\aeds\ex06\ex06.h
+
+1455897290 source:c:\users\renancn\desktop\aeds\ex06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex06.h"
+

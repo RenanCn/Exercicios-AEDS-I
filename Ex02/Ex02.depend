@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1455748388 source:c:\users\renancn\desktop\ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1455748500 source:c:\users\renancn\desktop\aeds\ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
