@@ -3,7 +3,7 @@
 #include "ex04.h"
 
 int main(){
-printf("- PILHA - Renan Caldeira Nunes - SI 14.2.8392\n");
+printf("- PILHA - Renan Caldeira Nunes - SI\n");
 
     Lista l1_funcione_desta_vez;
     l1_funcione_desta_vez=lista_criar();

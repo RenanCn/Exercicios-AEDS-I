@@ -48,7 +48,7 @@ for(i=0;i<n;i++)
 
 int main()
 {
-    printf("-EXERCICIO 2- Renan Caldeira Nunes - SI 14.2.8392\n\n");
+    printf("-EXERCICIO 2- Renan Caldeira Nunes - SI\n\n");
     char* alunos[MAX];
     int n = lenomes(alunos);
     imprimenomes(n,alunos);

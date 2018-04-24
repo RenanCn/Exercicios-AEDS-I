@@ -13,7 +13,7 @@ int main()
     Fila f3;
     f3 = fila_cria();
 
-    printf("- FILA - Renan Caldeira Nunes - SI 14.2.8392");
+    printf("- FILA - Renan Caldeira Nunes - SI");
     printf("\n\nA) Filas, clientes e prioridades: \n");
     fila_organiza(f1,f2,f3,15,0,101);
     fila_organiza(f1,f2,f3,16,1,102);

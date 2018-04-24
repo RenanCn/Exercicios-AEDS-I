@@ -6,7 +6,7 @@ int main()
 {
 
     Lista l;
-    printf("Renan Caldeira Nunes - SI 14.2.83.92\n\n");
+    printf("Renan Caldeira Nunes - SI\n\n");
     printf("Lista 01 (original): \n");
     l=lista_criar();
     l=lista_inserir(l,2);

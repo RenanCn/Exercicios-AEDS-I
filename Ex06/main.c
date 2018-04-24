@@ -19,7 +19,7 @@ int main()
     a5=arvore_inserir('c',a3,a4);
     a=arvore_inserir('a',a2,a5);
 
-    printf("- ARVORES - Renan Caldeira Nunes - SI 14.2.8392\n\n");
+    printf("- ARVORES - Renan Caldeira Nunes - SI\n\n");
     printf("A) Pre-ordem: ");
     arvore_preordem(a);
     printf("\n   Ordem-simetrica: ");
